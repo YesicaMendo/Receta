@@ -9,4 +9,7 @@ eleiminamos ingredientes porque ya no quiero hacer una tarta
 
 me estan expliando :)
 
+sedito el git en la terminal de bash 
+Ammm no se lo que estoy haciendo y 
+Mike me esta copiando.
 
