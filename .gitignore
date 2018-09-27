@@ -1,3 +1,10 @@
+#Para ignorar todos uso *
+#on un ! niego la inclusion para lograr excluirlos
+#*
+#
 
-Ign*
+#!readme.md
+*
+!mp3
+igno*
 
