@@ -1,4 +1,5 @@
 
+
 #OBJETIVO
 Este repositorio nos ayuda a introducirnos a Git/Github
 
@@ -11,3 +12,4 @@ me estan expliando :)
 
 Estams tratando de resolver a metida de pata que se generodesde el 
 momento en el que clonamos el archivo dela maquina anterior
+ya basta:
