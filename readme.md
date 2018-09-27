@@ -6,3 +6,7 @@ Este repositorio nos ayuda a introducirnos a Git/Github
 Vamos a ver como se hace un panque 
 
 eleiminamos ingredientes porque ya no quiero hacer una tarta
+
+me estan expliando :)
+
+
